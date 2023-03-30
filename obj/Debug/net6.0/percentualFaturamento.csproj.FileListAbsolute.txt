@@ -1,0 +1,15 @@
+C:\target\percentualFaturamento\obj\Debug\net6.0\percentualFaturamento.csproj.AssemblyReference.cache
+C:\target\percentualFaturamento\obj\Debug\net6.0\percentualFaturamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\target\percentualFaturamento\obj\Debug\net6.0\percentualFaturamento.AssemblyInfoInputs.cache
+C:\target\percentualFaturamento\obj\Debug\net6.0\percentualFaturamento.AssemblyInfo.cs
+C:\target\percentualFaturamento\obj\Debug\net6.0\percentualFaturamento.csproj.CoreCompileInputs.cache
+C:\target\percentualFaturamento\bin\Debug\net6.0\percentualFaturamento.exe
+C:\target\percentualFaturamento\bin\Debug\net6.0\percentualFaturamento.deps.json
+C:\target\percentualFaturamento\bin\Debug\net6.0\percentualFaturamento.runtimeconfig.json
+C:\target\percentualFaturamento\bin\Debug\net6.0\percentualFaturamento.dll
+C:\target\percentualFaturamento\bin\Debug\net6.0\percentualFaturamento.pdb
+C:\target\percentualFaturamento\obj\Debug\net6.0\percentualFaturamento.dll
+C:\target\percentualFaturamento\obj\Debug\net6.0\refint\percentualFaturamento.dll
+C:\target\percentualFaturamento\obj\Debug\net6.0\percentualFaturamento.pdb
+C:\target\percentualFaturamento\obj\Debug\net6.0\percentualFaturamento.genruntimeconfig.cache
+C:\target\percentualFaturamento\obj\Debug\net6.0\ref\percentualFaturamento.dll
